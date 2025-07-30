@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    base64 (0.2.0)
+    bigdecimal (3.1.9)
+    liquid (5.5.1)
+    mini_portile2 (2.8.7)
+    nokogiri (1.18.5)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
+    racc (1.8.1)
+    yaml (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  base64
+  bigdecimal
+  liquid (~> 5.5)
+  nokogiri (>= 1.18.4)
+  yaml (~> 0.3)
+
+BUNDLED WITH
+   2.6.6

@@ -9,6 +9,8 @@ SITE_DIR="_output"
 
 _backup_dir="$(mktemp -d)"
 
+GITHUB_TOKEN="${ALT_GITHUB_TOKEN}"
+
 
 init() {
   # Check if the script is running in a GitHub Actions environment

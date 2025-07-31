@@ -9,7 +9,7 @@ SITE_DIR="_output"
 
 _backup_dir="$(mktemp -d)"
 
-GITHUB_TOKEN="${ALT_GITHUB_TOKEN}"
+#GITHUB_TOKEN="${ALT_GITHUB_TOKEN}"
 
 
 init() {

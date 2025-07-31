@@ -31,11 +31,11 @@ title: "Shiraz's Awesome Communities Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "shirazcommunities.github.io"
+name: "Shiraz Communities Links"
 
 # Tagline section text
 tagline: >-
-    Here is some useful links to connect to Shiraz communities
+    Here is some contact links with Shiraz communities
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -47,10 +47,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "Shiraz Linux Telegram Channel"
+      url: "https://t.me/sudoshz"
+      alt: "Shiraz Linux Telegram Channel"
+      title: "Shiraz Linux Telegram Channel"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"

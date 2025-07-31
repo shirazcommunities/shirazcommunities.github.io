@@ -54,10 +54,10 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-telegram"
-      text: "Travelog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://medium.com/ztravel"
-      alt: "ZhgChgLi's Travelog"
-      title: "ZhgChgLi's Travelog"
+      text: "Shiraz Linux Telegram Group"
+      url: "https://t.me/shirazlinuxcommunity"
+      alt: "Shiraz Linux Telegram Group"
+      title: "Shiraz Linux Telegram Group"
       target: "_blank"
   - link:
       icon: "fa-brands fa-telegram"

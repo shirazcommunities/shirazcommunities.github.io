@@ -15,27 +15,27 @@ plugins:
   - MediumFollowersCountPlugin:
       username: zhgchgli
   # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
+  #- GithubRepoStarsCountPlugin:
+      #- ZhgChgLi/ZMarkupParser
+      #- ZhgChgLi/ZReviewTender
+      #- ZhgChgLi/ZMediumToMarkdown
+      #- ZhgChgLi/linkyee
 
 # Google Analytics tracking id
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Shiraz's Awesome Communities Links"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "shirazcommunities.github.io"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    Here is some useful links to connect to Shiraz communities
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)

@@ -47,10 +47,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-telegram"
-      text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "Shiraz Linux Telegram Channel"
+      url: "https://t.me/sudoshz"
+      alt: "Shiraz Linux Telegram Channel"
+      title: "Shiraz Linux Telegram Channel"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"

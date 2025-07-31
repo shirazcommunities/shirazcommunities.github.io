@@ -104,9 +104,9 @@ socials:
       #target: "_blank"
   - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      url: "https://github.com/shirazcommunities/shirazcommunities.github.io"
+      title: "Shiraz Communities GitGub Repo"
+      alt: "Shiraz Communities GitGub Repo"
       target: "_blank"
   #- social:
       #icon: "fa-brands fa-twitter"

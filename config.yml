@@ -96,42 +96,42 @@ links:
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
-  - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
+  #- social:
+      #icon: "fa-brands fa-medium"
+      #url: "https://blog.zhgchg.li"
+      #title: "ZhgChgLi's Medium"
+      #alt: "ZhgChgLi's Medium"
+      #target: "_blank"
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/ZhgChgLi"
       title: "ZhgChgLi's GitHub"
       alt: "ZhgChgLi's GitHub"
       target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
-      target: "_blank"
-  - social:
-      icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
-      target: "_blank"
+  #- social:
+      #icon: "fa-brands fa-twitter"
+      #url: "https://twitter.com/zhgchgli"
+      #title: "ZhgChgLi's Twitter"
+      #alt: "ZhgChgLi's Twitter"
+      #target: "_blank"
+  #- social:
+      #icon: "fa-brands fa-linkedin"
+      #url: "https://www.linkedin.com/in/zhgchgli/"
+      #title: "ZhgChgLi's LinkedIn"
+      #alt: "ZhgChgLi's LinkedIn"
+      #target: "_blank"
+  #- social:
+      #icon: "fa-brands fa-instagram"
+      #url: "https://www.instagram.com/zhgchgli/"
+      #title: "Instagram"
+      #alt: "ZhgChgLi's Instagram"
+      #target: "_blank"
+  #- social:
+      #icon: "fa-solid fa-envelope"
+      #url: "mailto:zhgchgli@gmail.com"
+      #title: "Email: zhgchgli@gmail.com"
+      #alt: "zhgchgli@gmail.com"
+      #target: "_blank"
 
 # Footer text
 footer: >

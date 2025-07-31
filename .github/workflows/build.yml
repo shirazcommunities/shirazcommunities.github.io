@@ -29,4 +29,6 @@ jobs:
           bundler-cache: true
 
       - name: Deploy
+        env: 
+          ALT_GITHUB_TOKEN: ${{ secrets.ALT_GITHUB_TOKEN }}
         run: bash deploy.sh

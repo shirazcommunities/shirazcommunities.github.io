@@ -61,8 +61,15 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-telegram"
-      text: "ShirazTux Telegram Group"
+      text: "ShirazTux Telegram Channel"
       url: "https://t.me/shiraztux"
+      alt: "ShirazTux Telegram Group"
+      title: "ShirazTux Telegram Group"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-telegram"
+      text: "ShirazTux Telegram Group"
+      url: "https://t.me/shiraztux_chat"
       alt: "ShirazTux Telegram Group"
       title: "ShirazTux Telegram Group"
       target: "_blank"

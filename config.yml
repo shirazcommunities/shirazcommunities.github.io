@@ -47,6 +47,13 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-telegram"
+      text: "All In One Telegram Folder"
+      url: "https://t.me/addlist/KApbYH8yiL84ODQ0"
+      alt: "All In One Telegram Folder"
+      title: "All In One Telegram Folder"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-telegram"
       text: "Shiraz Linux Telegram Channel"
       url: "https://t.me/sudoshz"
       alt: "Shiraz Linux Telegram Channel"

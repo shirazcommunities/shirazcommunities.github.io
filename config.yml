@@ -87,13 +87,7 @@ links:
       alt: "ShirazLug Telegram Group"
       title: "ShirazLug Telegram Group"
       target: "_blank"
-  - link:
-      icon: "fa-brands fa-telegram"
-      text: "Piosh Programmers Channel"
-      url: "https://t.me/pioush_programming"
-      alt: "Piosh Programmers Channel"
-      title: "Piosh Programmers Channel"
-      target: "_blank"
+
 
 
 # List of social media links

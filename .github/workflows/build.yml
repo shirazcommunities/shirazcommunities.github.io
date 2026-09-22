@@ -8,8 +8,8 @@ on:
       - README.md
       - LICENSE
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight (00:00 UTC)
+  #schedule:
+    #- cron: '0 0 * * *'  # Runs daily at midnight (00:00 UTC)
     
 jobs:
   continuous-delivery:
@@ -20,12 +20,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1.325.0
         with:
           ruby-version: 3.4.2
           bundler-cache: true
